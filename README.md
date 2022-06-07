@@ -3,19 +3,19 @@
 
 Cronommetro feito em JavaScript usando o DOM e a função Date().
 
-## Acesse o projeto
+## ☕ Acessando o cronometro
 
 Você pode ver o projeto em funcionamento clicando <a href="https://mystifying-mirzakhani-842612.netlify.app/" target="_blank">aqui</a>. <br>
 Ou copiando o link: https://mystifying-mirzakhani-842612.netlify.app/
 
-## 🚀 Instalando o Cronometro
+## 🚀 Instalando o cronometro
 
-### Pré-requisitos
+### 💻 Pré-requisitos
 
 * Visual Studio Code
 * Chrome (ou outro navegador se preferir)
 
-### Instalação
+### 🚀 Instalação
 
 1. Clone o repositório
 
@@ -23,7 +23,7 @@ Ou copiando o link: https://mystifying-mirzakhani-842612.netlify.app/
 git clone https://github.com/GabrielFelip/Cronometro.git
 ```
 
-## Construído com
+## :construction: Construído com
 
 Linguagens usadas neste projeto: 
 
